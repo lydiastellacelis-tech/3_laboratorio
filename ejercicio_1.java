@@ -13,4 +13,5 @@ public class ejericico_1 {
                 .sorted()//Ahora lo ordenamos en orden alfabetico
                 .toList();
         System.out.println(resultado);
+    }
 }
