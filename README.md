@@ -1,4 +1,4 @@
-# 💻 Tercer Laboratorio – Técnicas de Programación y Laboratorio
+# Tercer Laboratorio – Técnicas de Programación y Laboratorio
 
 ## Paradigma Funcional en Java
 
