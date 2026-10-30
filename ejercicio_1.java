@@ -1,7 +1,7 @@
 //Ejercicio 1 - ciudades con Streams
 import java.util.List;
-
-public class ejericicio_1 {
+ 
+public class ejercicio_1 {
     public static void main(String[]arg){
         List<String> ciudades = List.of(
             "Medellin", "Bogota", "Cali", "Pereira",
