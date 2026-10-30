@@ -177,20 +177,3 @@ Durante el desarrollo del laboratorio se trabajaron los siguientes conceptos:
 | Sorted | Ordenamiento de elementos. |
 | ForEach | Recorrido y visualización de resultados. |
 | Recursividad | Resolución de problemas mediante llamadas a la misma función. |
-
-
-## Video de sustentación
-
-En esta sección se incluirá el video de sustentación del laboratorio, donde se explica el funcionamiento de cada ejercicio, los conceptos utilizados y los resultados obtenidos.
-
-**Enlace del video:** [Agregar aquí el enlace de la sustentación]
-
-
-**Asignatura:** Técnicas de Programación y Laboratorio  
-**Laboratorio:** Número 3 – Paradigma Funcional  
-**Lenguaje de programación:** Java 17 o superior
-ejercicio_3.java Potencia recursiva
-README.md
-
-##Video sustentación.
-
